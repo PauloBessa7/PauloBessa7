@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é Paulo Bessa 
 
-<br>🌱 Estou aprendendo a programar<br>🤝Procurando sempre novos desafios<br>🤓Consultor da UNIDEV - Consultoria Junior de T.I da Unicesumar<br>👨🏻‍💻Cursando Análise e Desenvolvimento de Sistemas<br><br>
+<br>🌱 Estou aprendendo a programar<br>🤝Procurando sempre novos desafios<br>🤓Consultor da UNIDEV - Consultoria Junior de T.I da Unicesumar<br>👨🏻‍💻Cursando Análise e Desenvolvimento de Sistemas
 
 # 💻 Meus conhecimentos
 <br>
